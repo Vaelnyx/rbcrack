@@ -10,7 +10,8 @@ ruby cracker.rb --no-table --charset digits --max 6 <hash>
 ruby cracker.rb --no-brute --wordlist rockyou.txt <hash>
 ```
 
-cracked hashes get written back to the table so future lookups are instant ;)
-included sample passwords, for maximum efficiency use a file like rockyou.txt
+cracked hashes get written back to the table so future lookups are instant
+
+included sample passwords, for maximum efficiency use a file like rockyou.txt ;)
 
 built with stdlib only
